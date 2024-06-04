@@ -4,7 +4,7 @@ Welcome to **Blue Light Waves Tech (BLW Tech)**! We are a dynamic team passionat
 
 ## 🚀 Our Mission
 
-- 🧊 DEVELOPERS   MR MASSAQUOI--------MR SALAM---------MR  ABDULLAH
+- 🧊 DEVELOPERS-------MR MASSAQUOI--------MR SALAM---------MR  ABDULLAH
 
 At BLW Tech, our mission is to harness the power of technology to solve real-world problems, foster innovation, and make a positive impact on society. We aim to:
 
